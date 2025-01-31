@@ -1,0 +1,13 @@
+.env
+.idea
+.vscode
+.venv
+venv
+
+.mypy_cache
+__pycache_
+*.ipynb
+.ipynb_checkpoints
+__pycache__/
+
+pytest-report.junit.xml
